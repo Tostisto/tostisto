@@ -4,7 +4,7 @@ Hi, my name is Tostisto.
 
 I am a man from Czech republic.
 
-Check out my website for [more](https://tostisto.com/) .
+Check out my website for [more](https://tostisto.com/).
 
 ### Contact me:
 
