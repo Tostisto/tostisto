@@ -1,7 +1,7 @@
 ## Tostisto
 
 <p align="center">
-  <img src="assets/banner.png" />
+  <img src="https://raw.githubusercontent.com/Tostisto/Tostisto/master/assets/banner.png" />
 </p>
 
 I am from Czech republic.   
