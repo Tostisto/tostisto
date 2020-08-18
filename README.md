@@ -1,4 +1,8 @@
-### Hi, my name is Tostisto
+## Tostisto
+
+<p align="center">
+  <img src="assets/banner.png" />
+</p>
 
 I am from Czech republic.   
 Check out my website for [more](https://tostisto.com/).
