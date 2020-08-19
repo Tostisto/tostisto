@@ -7,5 +7,3 @@ Check out my website for [more](https://tostisto.com/).
 
 - Telegram [@tostisto](https://t.me/tostisto)   
 - Email contact@tostisto.com
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=Tostisto)](https://github.com/anuraghazra/github-readme-stats)
