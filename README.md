@@ -1,6 +1,6 @@
-### Hi, I am Tostisto
+### Hi, My name is Tostisto
 
-I am from Czech republic.   
+Welcome to my GitHub profile.  
 Check out my website for [more](https://tostisto.com/).
 
 ### Contact me:
