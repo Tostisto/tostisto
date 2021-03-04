@@ -1,4 +1,4 @@
-### Hi, My name is Tostisto
+### Hi
 
 Welcome on my GitHub profile.  
 
