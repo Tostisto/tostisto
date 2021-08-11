@@ -1,8 +1,5 @@
-### Hi
+![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=tostisto&show_icons=true&count_private=true)
 
-Welcome on my GitHub profile.  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tostisto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contact me:
-
-- Telegram [@tostisto](https://t.me/tostisto)   
-- Email contact@tostisto.com
+![](https://komarev.com/ghpvc/?username=tostisto&color=blue)
